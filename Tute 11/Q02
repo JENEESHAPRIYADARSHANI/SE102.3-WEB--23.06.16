@@ -5,10 +5,11 @@
 
 
 
-for($i=5;$i<=50;$i++)
+for($i=5;$i<=15;$i++)
 {
-    echo $i;
+    $count++;
 }  
+echo $count;
 
 
 ?>
