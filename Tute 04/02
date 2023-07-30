@@ -3,7 +3,8 @@
         <title>Assignment</title>
     </head>
     <body>
-        <div title="Car Registration">
+        <fieldset>
+		<legend>Car Registration</legend>
         <form name="g" method="post">
              <table border=0 align=center>
                  <tr>
@@ -71,6 +72,6 @@
                  
             </table>	
 </form>
-        </div>
+        </fieldset>
     </body>
 </html>
